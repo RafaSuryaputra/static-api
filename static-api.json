@@ -1,63 +1,61 @@
 [
     {
         "nama": "Anwar",
-        "namaPemilik": "Noval Abdurramadan",
+        "namaPemilik": "Owner : Noval ",
         "imageId": "anwar"
     },
     
     {
         "nama": "Bocan",
-        "namaPemilik": "Fierly",
+        "namaPemilik": "Owner : Fierly",
         "imageId": "bocan"
     },
     
     {
         "nama": "Jamal",
-        "namaPemilik": "Ikrar Akmal",
+        "namaPemilik": "Owner : Akmal",
         "imageId": "jamal"
     },
     
     {
         "nama": "Mbul",
-        "namaPemilik": "Rafa Suryaputra",
+        "namaPemilik": "Owner : Rafa",
         "imageId": "mbul"
     },
     
     {
         "nama": "Mochi",
-        "namaPemilik": "Fajar Arrohman",
+        "namaPemilik": "Owner : Fajar",
         "imageId": "mochi"
     },
     
-
-    
     {
         "nama": "Rex",
-        "namaPemilik": "Muhammad Kafaby",
+        "namaPemilik": "Owner : Kafaby",
         "imageId": "rex"
     },
 
     {
         "nama": "Raihan",
-        "namaPemilik": "Firdaus Akbar",
+        "namaPemilik": "Owner : Firdaus",
         "imageId": "raihan"
     },
 
     {
         "nama": "Saipul",
-        "namaPemilik": "Rihansen Ulihdo Purba",
+        "namaPemilik": "Owner : Rihansen",
         "imageId": "saipul"
     },
     
     {
-        "nama": "Windah",
-        "namaPemilik": "Windah Basudara",
+        "nama": "Raul",
+        "namaPemilik": "Owner : Windah",
         "imageId": "tamo"
     },
     
     {
         "nama": "Selen",
-        "namaPemilik": "Alshad Ahmad",
+        "namaPemilik": "Owner : Alshad Ahmad",
         "imageId": "selen"
     }
 ]
