@@ -29,18 +29,20 @@
         "imageId": "mochi"
     },
     
-    {
-        "nama": "Raihan",
-        "namaPemilik": "Firdaus Akbar",
-        "imageId": "raihan"
-    },
+
     
     {
         "nama": "Rex",
         "namaPemilik": "Muhammad Kafaby",
         "imageId": "rex"
     },
-    
+
+    {
+        "nama": "Raihan",
+        "namaPemilik": "Firdaus Akbar",
+        "imageId": "raihan"
+    },
+
     {
         "nama": "Saipul",
         "namaPemilik": "Rihansen Ulihdo Purba",
