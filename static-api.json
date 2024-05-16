@@ -1,0 +1,61 @@
+[
+    {
+        "nama": "Anwar",
+        "namaPemilik": "Noval Abdurramadan",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/anwar.jpeg"
+    },
+    
+    {
+        "nama": "Bocan",
+        "namaPemilik": "Fierly",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/bocan.jpg"
+    },
+    
+    {
+        "nama": "Jamal",
+        "namaPemilik": "Ikrar Akmal",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/jamal.jpg"
+    },
+    
+    {
+        "nama": "Mbul",
+        "namaPemilik": "Rafa Suryaputra",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/mbul.jpg"
+    },
+    
+    {
+        "nama": "Mochi",
+        "namaPemilik": "Fajar Arrohman",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/mochi.jpg"
+    },
+    
+    {
+        "nama": "Raihan",
+        "namaPemilik": "Firdaus Akbar",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/raihan.jpg"
+    },
+    
+    {
+        "nama": "Rex",
+        "namaPemilik": "Muhammad Kafaby",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/rex.jpg"
+    },
+    
+    {
+        "nama": "Saipul",
+        "namaPemilik": "Rihansen Ulihdo Purba",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/saipul.jpg"
+    },
+    
+    {
+        "nama": "Windah",
+        "namaPemilik": "Windah Basudara",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/tamo.jpg"
+    },
+    
+    {
+        "nama": "Selen",
+        "namaPemilik": "Alshad Ahmad",
+        "imageId": "https://github.com/RafaSuryaputra/static-api/blob/main/selen.jpg"
+    }
+]
